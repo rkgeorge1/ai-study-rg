@@ -1,2 +1,2 @@
 # ai-study-rg
-ai study
+ai study!
